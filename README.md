@@ -1,6 +1,6 @@
 # I2C-Protocol-Implementation-and-verification
 
-# Design and Implementation of I2C and SPI Protocols
+# Design and Implementation of I2C Protocols
 
 > **AIM:** The aim of the project is set as designing and development of I2C in a simulation environment using verilog <hr>
 ## Description:
