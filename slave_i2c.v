@@ -1,4 +1,4 @@
-module i2c_slave( inout sda, inout scl );
+module slave_i2c( inout sda, inout scl );
 
 localparam address = 7'b0101010;
 
